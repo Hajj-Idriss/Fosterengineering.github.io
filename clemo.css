@@ -89,7 +89,10 @@ section.Services ul li {
     font-size: 18px;
     margin-bottom: 10px;
 }
-
+.founder-photo {
+    max-width: 100%; /* Set the maximum width of the image to 100% of its container */
+    height: auto; /* Allow the height to adjust proportionally */
+}
 footer {
     background-color: #333; /* Adjust the background color of the footer */
     color: white; /* Set the text color to white for better visibility */
