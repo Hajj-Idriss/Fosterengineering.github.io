@@ -85,7 +85,7 @@
             <ul>
                 <li><a href="https://www.facebook.com/profile.php?id=100091325896609" target="_blank"><i class="fab fa-facebook-f" style="font-size: 34px;"></i></a></li>
                 <li><a href="https://www.instagram.com/clementchula?igshid=MTI4aHZhcnZ1M3pibw==" target="_blank"><i class="fab fa-instagram" style="font-size: 34px;"></i></a></li>
-                <li><a href="https://wa.me/0712563170"><i class="fab fa-whatsapp" style="color: #25D366; font-size: 34px;"></i></a></li>
+                <li><a href="https://wa.me/+254712563170"><i class="fab fa-whatsapp" style="color: #25D366; font-size: 34px;"></i></a></li>
             </ul>
         </div>
         <div class="developer-credits">
